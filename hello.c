@@ -1,2 +1,4 @@
 void main()
-{printf("helloworld")}
+{
+	printf("helloworld")
+}
